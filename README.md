@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="22.png" width="100%" />
+</div>
+
 # Crown & Vow - 新娘头饰无货源电商平台
 
 基于 React + Node.js + MySQL 的高利润婚纱配饰电商系统。
