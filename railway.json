@@ -1,0 +1,13 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "nixpacks"
+  },
+  "start": "cd backend && node server.js",
+  "services": [
+    {
+      "name": "mysql",
+      "type": "mysql"
+    }
+  ]
+}
